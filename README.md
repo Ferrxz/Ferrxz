@@ -5,12 +5,13 @@
 
 </div>
 
-# Wallace Araujo 
+# Gabriel Ferraz
 
 
 <p align="justify">
-  Sou um estudante de programação aprimorando meus conhecimentos full stack com Spring Boot, utilizando Java, PostgreSQL, Docker, HTML, CSS, JavaScript e Git. <br>
-  Cursando Análise e Desenvolvimento de Sistemas no SENAC<br>
+  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e em constante evolução na área de desenvolvimento. Atualmente estou aprofundando meus estudos com foco em Design para Web, buscando unir programação e estética para criar interfaces modernas, funcionais e intuitivas.
+
+Tenho experiência prática com Python, utilizando a biblioteca Pygame para desenvolvimento de projetos interativos e jogos, o que fortaleceu minha base em lógica de programação, estrutura de código e resolução de problemas. <br>
 <br></p>
 </p>
 
