@@ -45,20 +45,29 @@ Atualmente, estou em busca de um estágio ou oportunidades para aplicar e expand
  
 ## <center> Skills:
 <div align="center">
-    <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" />
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" />
-    </a>
+    <a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://www.aseprite.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/aseprite/FFFFFF" width="48"/>
+</a>
     
 </div>
 
